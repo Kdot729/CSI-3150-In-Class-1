@@ -52,4 +52,6 @@ img
     display: grid;
     grid-template-columns: repeat(2, 250px);
     grid-template-rows: 500px;
+    justify-content: center;
+    align-items: center;
 }
