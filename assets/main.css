@@ -30,3 +30,8 @@ h5
     border-radius: 50%;
     display: inline-block;
 }
+
+.right-info-col
+{
+    padding: 20px;
+}
