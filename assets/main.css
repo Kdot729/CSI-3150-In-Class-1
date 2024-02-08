@@ -41,8 +41,15 @@ h5
     margin-top: 15px;
 }
 
+img
+{
+    width: 250px;
+    height: 500px;
+}
+
 .product-card
 {
-    width: 800px;
-    height: 500px;
+    display: grid;
+    grid-template-columns: repeat(2, 250px);
+    grid-template-rows: 500px;
 }
