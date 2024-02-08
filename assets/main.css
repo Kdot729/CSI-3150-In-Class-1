@@ -37,6 +37,9 @@ h5
 {
     padding: 20px;
     background-color: white;
+    display: grid;
+    width: 400px;
+    height: 500px;
 }
 
 h5
@@ -46,14 +49,14 @@ h5
 
 img
 {
-    width: 250px;
+    width: 400px;
     height: 500px;
 }
 
 .product-card
 {
     display: grid;
-    grid-template-columns: repeat(2, 250px);
+    grid-template-columns: repeat(2, 400px);
     grid-template-rows: 500px;
     justify-content: center;
     align-items: center;
