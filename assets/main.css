@@ -55,3 +55,8 @@ img
     justify-content: center;
     align-items: center;
 }
+
+.product-description
+{
+    padding-left: 50px;
+}
