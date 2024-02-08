@@ -37,9 +37,9 @@ h5
 {
     padding: 20px;
     background-color: white;
-    display: grid;
     width: 400px;
     height: 500px;
+    box-sizing: border-box;
 }
 
 h5
