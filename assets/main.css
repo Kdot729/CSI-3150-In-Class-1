@@ -57,6 +57,7 @@ img
     grid-template-rows: 500px;
     justify-content: center;
     align-items: center;
+    margin-top: 120px;
 }
 
 .product-description
