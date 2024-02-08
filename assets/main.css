@@ -1,6 +1,7 @@
 h5
 {
     color: lightgray;
+    font-size: 18px;
 }
 
 .black
@@ -66,4 +67,14 @@ img
 .price
 {
     padding-top: 20px;
+}
+
+.font-size-14
+{
+    font-size: 14px;
+}
+
+.font-size-32
+{
+    font-size: 32px;
 }
